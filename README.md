@@ -1,7 +1,4 @@
 # Regressão
-
-![60a7e87ebdce89815df98260_Plano de saúde empresarial - tudo o que a sua empresa deve saber para contratar](https://user-images.githubusercontent.com/94324179/174678508-64dbf50f-4071-4108-8dd6-ff1d58c1a3ce.png)
-
 # Motivação:
 
 O cientista de dados é contratado para resolver problemas! E um dos problemas mais comuns no mundo real são as regressões. Um problema pode ser modelado como sendo uma regressão quando queremos prever um número real, ou, mais tecnicamente: quando queremos prever uma variável contínua.
